@@ -1,4 +1,4 @@
-# us2020election
+# US2020 Election
 Some insights about the US 2020 election
 
 ### data 
